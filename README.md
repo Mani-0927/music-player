@@ -37,8 +37,10 @@ music-player/
 ├── JS/
     ├──script.js
 └── songs/
-    ├── song1.mp3
-    ├── song2.mp3
+    ├── Mile.mp3
+    ├── Heeriye.mp3
+    ├── suniyan.mp3
+    
 
 ## How to Use
 1. Download and extract the project folder.
@@ -71,5 +73,5 @@ music-player/
 
 ## Final Note
 This project is original, beginner-friendly, and fully functional.  
-It demonstrates core front-end development skills and is suitable for internship submission.
+It demonstrates core front-end development skills.
 
